@@ -18,3 +18,17 @@ data/
 # secrets
 .env
 Module-3_Major/Interface/backend/.env
+
+
+
+# Python virtual environments
+venv/
+venv310/
+**/venv/
+**/venv310/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
